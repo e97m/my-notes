@@ -6,6 +6,6 @@ I am a **mechanical engineer** worked as a *freelance product designer*, and cer
 I am fascinated with the IT field, so now I am studying **Application Development.** Hopefully in the future I could merge mechanical engineering with programming, which is powerful.
 <br/>
 I have basic knowledge of the following programming languages:
-- Python
-- SQL
-- R
+- Python <br/>
+- SQL <br/>
+- R <br/>
