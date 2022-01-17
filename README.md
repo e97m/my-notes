@@ -32,3 +32,13 @@ My planes for now:
 ---
 
 ![Stay motivated!!](https://www.techrepublic.com/a/hub/i/r/2020/01/23/bd5de474-46fa-4a7f-84d3-4a086927e7df/resize/1200x/411fdba8daebd595647ce5a5c0e1068f/python-developer.jpg)
+
+---
+
+<br>
+
+| Activities      | like it or not |
+| ----------- | ----------- |
+| Basketball      | like it       |
+| Football   | don't like it       |
+| Swinmming   | like it        |
